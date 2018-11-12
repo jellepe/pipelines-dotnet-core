@@ -20,6 +20,8 @@ namespace dotnetcore_sample
                 .Build();
 
             host.Run();
+
+            // my changes
         }
     }
 }
